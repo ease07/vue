@@ -11,7 +11,7 @@
 //以上是一次性操作，只操作一次 打开cmd直接输入
 
 //git bash here 选择的是要创建项目的文件的目录
-1.`npm create 文件名`
+1.`vue create 文件名`
 2.`cd 文件名`
 3.`npm run serve`
 
